@@ -81,7 +81,7 @@ button:disabled {
     opacity: .5;
 }
 
-button:hover{
+button:hover, button:active {
     background: #ddddddad;
 }
 
