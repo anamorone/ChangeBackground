@@ -12,6 +12,7 @@ button.onclick = () => {
         text.style.outline = "none";
         error.style.background = "none";
         error.style.display = "none";
+
       }else {
         error.innerHTML = "Invalid color";
         text.style.outline = "4px solid #f82f3d";
@@ -19,7 +20,6 @@ button.onclick = () => {
         error.style.background ="#f82f2f";
 
       }
-
       
 }
 
