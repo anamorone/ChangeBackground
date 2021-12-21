@@ -5,3 +5,5 @@ EN: A website created using HTML, CSS and JavaScript. This website lets you choo
 PT: Um website criado com HTML, CSS e JavaScript. Ele permite que você escolha qualquer cor que você deseje colocar como o seu background. Você pode muda-la digitando o seu nome (em inglês), valor hex ou rgb dentro da input. Quando terminar, clique no botão ou pressione enter. 
 
 ### Try it out! → [View website](https://anamorone.github.io/ChangeBackground/)
+
+2.0 → Correção de alguns bugs.
