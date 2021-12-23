@@ -29,7 +29,7 @@ body {
     border-radius: 30px;
     padding: 30px;
     text-align: center;
-    gap: 40px;
+    gap: 10px;
 }
 
 h1 {
@@ -47,7 +47,7 @@ h1 {
 input {
     width: 28rem;
     height: 5.5rem;
-    margin-bottom: 35px;
+    margin: 35px;
     padding: 15px;
     border-radius: 5px;
     font-family: 'Poppins', sans-serif;
@@ -68,6 +68,7 @@ button {
     height: 5.7rem;
     border: none;
     cursor: pointer;
+    margin-top: 20px;
     border-radius: 18px;
     font-family: 'Poppins', sans-serif;
     font-size: 1.7rem;
@@ -129,4 +130,3 @@ button:hover {
         font-size: 0.9rem;
     }
 }
-
