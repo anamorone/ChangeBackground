@@ -29,7 +29,7 @@ body {
     border-radius: 30px;
     padding: 30px;
     text-align: center;
-    gap: 30px;
+    gap: 40px;
 }
 
 h1 {
@@ -49,7 +49,7 @@ input {
     height: 5.5rem;
     margin-bottom: 35px;
     padding: 15px;
-    border-radius: 15px;
+    border-radius: 5px;
     font-family: 'Poppins', sans-serif;
     font-size: 2rem;
     border: none;
@@ -82,7 +82,7 @@ button:disabled {
     opacity: .5;
 }
 
-button:hover, button:active {
+button:hover {
     background: #ddddddad;
 }
 
@@ -113,7 +113,7 @@ button:hover, button:active {
 
     input {
         width: 15rem;
-        height: 3rem;
+        height: 3.2rem;
         font-size: 1rem;
         padding: 10px;
     }
